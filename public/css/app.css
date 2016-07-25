@@ -1,0 +1,72 @@
+.button-collapse, .brand-logo{
+	/*margin-left: 20px;*/
+}
+#slider-libreria, #section2{
+	margin-top: 30px;
+}
+
+p{
+	margin-top: 50px;
+	padding-top: 50px;
+}
+/*color del boton activo*/
+
+.slider .indicators .indicator-item.active {
+  background-color: #ff6f00;
+}
+
+/*propiedades del boton inactivo*/
+.slider .indicators .indicator-item {
+  background-color: #ff6f00;
+  border: 2px solid #ff6f00;
+ }
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  .main {
+    flex: 1 0 auto;
+  }
+.btn-social{
+ 	margin-left: 10px;
+ }
+
+ .formatos{
+  margin-left: 60px;
+ }
+ .img-login{
+  margin-right: 120px;
+  margin-top: 20px;
+ }
+ div.crop-img {
+  max-width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+}
+.img-newusr{
+  margin-right: 140px;
+  margin-top: 50px;
+ }
+.form-acceso{
+  margin-top: 30px;
+}
+.error{
+  color:red;
+  padding: 3px;
+  font-size: 30px;
+  font-family:"Times New Roman", Times, serif;
+}
+.exito{
+  color:blue;
+  padding: 3px;
+  font-size: 30px;
+  font-family:"Times New Roman", Times, serif;
+}
+.imglibro{
+  max-width: 225px;
+  max-height: 230px;
+}
